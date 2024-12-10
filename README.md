@@ -7,3 +7,8 @@ This project is designed to generate a random number within a range specified by
  * Generates a random number dynamically with each button click.
 
 
+(Ekran görüntüsü 2024-12-10 161530.png)
+
+
+
+
