@@ -10,7 +10,7 @@ import { useState } from "react";
 
 function App() {
 
-  const [minVal, setMinVal] = useState(20);
+  const [minVal, setMinVal] = useState(0);
   const [maxVal, setMaxVal] = useState(10);
   const [randomNum, setRandomNum] = useState(5);
   const giveRandomNumber = () =>
